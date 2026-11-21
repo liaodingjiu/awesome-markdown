@@ -29,3 +29,8 @@
 ## Mermaid Diagrams to Portable Document Format (PDF)
 
 - [Mermaid Online](https://mermaidonline.org) - free browser-based Mermaid diagram converter for previewing diagrams and exporting PNG, SVG, JPG, WebP, and PDF assets. No signup or watermark.
+
+
+## Image Hosting & Embedding
+
+- [Photo2URL](https://photo2url.com) - instant image-to-URL hosting on Cloudflare CDN (15 free uploads/day, no signup) that generates direct image links and copy-ready Markdown (`![alt](url)`) snippets from clipboard pastes or file uploads. Freemium.
